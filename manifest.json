@@ -1,0 +1,14 @@
+{
+  "short_name": "Taide",
+  "name": "Taide",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "96x96",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
